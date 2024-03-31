@@ -26,7 +26,7 @@ const createSendEmailCommand = ({ name, email, subject, message }) => {
     Destination: { ToAddresses: [toEmail] },
     TemplateData: JSON.stringify({ name, email, subject, message }),
     Source: sourceEmail,
-    Template: 'ses-about-me-contact-form-template',
+    Template: 'ses-crd-project-contact-form-template',
   })
 }
 

@@ -1,10 +1,10 @@
 {
   "page-title": "Главная",
-  "title": ["Привет,", "Я Эмиль,", "Разработчик ПО"],
-  "subtitle": "Разработчик ПО / Облачный Эксперт",
+  "title": ["Software developers"],
+  "subtitle": "software developers",
   "og": {
     "title": "Главная",
-    "description": "Привет, я Эмиль, разработчик программного обеспечения и эксперт по облачным технологиям.",
-    "image": "https://zubogain.github.io/static/og-image.png"
+    "description": "Привет, мы разработчики программного обеспечения и эксперты по облачным технологиям.",
+    "image": "https://crd-project.github.io/static/og-image.png"
   }
 }

@@ -55,10 +55,10 @@ const ExperienceContainer = () => {
               setIsStopAnimation={setIsStopAnimation}
             />
 
-            <Experience
+            {/* <Experience
               isStopAnimation={isStopAnimation}
               setIsStopAnimation={setIsStopAnimation}
-            />
+            /> */}
           </div>
         </div>
       </motion.section>

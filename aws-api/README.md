@@ -1,4 +1,4 @@
-# about-me-api
+# crd-project-api
 
 This project contains source code and supporting files for a serverless application that you can deploy with the AWS Serverless Application Model (AWS SAM) command line interface (CLI). It includes the following files and folders:
 
@@ -151,7 +151,7 @@ my-application$ npm run test
 To delete the sample application that you created, use the AWS CLI. Assuming you used your project name for the stack name, you can run the following:
 
 ```bash
-aws cloudformation delete-stack --stack-name about-me-api
+aws cloudformation delete-stack --stack-name crd-project-api
 ```
 
 ## Resources

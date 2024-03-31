@@ -68,7 +68,7 @@ const Header = () => {
           <div className="col-12">
             <ul className="header__socials d-flex justify-content-center">
               <li className="header__socials-item cap__text">
-                <Link href="https://github.com/Zubogain">
+                <Link href="https://github.com/crd-project">
                   <Image
                     priority
                     src="/static/github-square.svg"
@@ -79,7 +79,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="header__socials-item cap__text">
-                <Link href="https://t.me/Zubogain">
+                <Link href="https://t.me/crd-project">
                   <Image
                     priority
                     src="/static/telegram.svg"
@@ -90,7 +90,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="header__socials-item cap__text">
-                <Link href="https://kz.linkedin.com/in/emil-shergali-3470b9184">
+                <Link href="https://kz.linkedin.com/in/crd-project-3470b9184">
                   <Image
                     priority
                     src="/static/linkedin.svg"

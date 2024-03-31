@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
-  about-me-api
+  crd-project-api
 
 Transform:
   - AWS::Serverless-2016-10-31
@@ -28,7 +28,7 @@ Resources:
         Variables:
           TO_EMAIL: 'your_to_email'
           SOURCE_EMAIL: 'your_source_email'
-          ALLOW_ORIGIN: 'https://zubogain.github.io'
+          ALLOW_ORIGIN: 'https://crd-project.github.io'
 
 Outputs:
   WebEndpoint:

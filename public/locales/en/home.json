@@ -1,10 +1,10 @@
 {
   "page-title": "Home",
-  "title": ["Hi,", "I am Emil,", "A software developer"],
-  "subtitle": "Software Developer / Cloud Expert",
+  "title": ["Hi,", "Software developers"],
+  "subtitle": "Software Developers",
   "og": {
     "title": "Home",
-    "description": "Hi, I'm Emil, a software developer and cloud expert",
-    "image": "https://zubogain.github.io/static/og-image.png"
+    "description": "Hi, a software developers",
+    "image": "https://crd-project.github.io/static/og-image.png"
   }
 }
